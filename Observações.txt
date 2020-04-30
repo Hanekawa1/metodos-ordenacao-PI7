@@ -1,0 +1,11 @@
+Os códigos foram implementados em ruby, go, javascript e python para estudo em linguagens diferentes.
+
+Para executar os códigos, basta acessar os sites abaixo e colar os códigos ou rodar localmente se as 
+respectivas linguagens estiverem devidamente instaladas na máquina.
+
+Ruby: https://repl.it/languages/ruby
+Go: https://play.golang.org/
+JavaScript: https://playcode.io/ ou https://js.do/
+Python: https://repl.it/languages/python3
+
+Os códigos em elixir foram apenas para testes e não executam devidamente.
